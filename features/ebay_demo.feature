@@ -1,4 +1,4 @@
-Feature: SauceDemo Website Functionality
+Feature: Ebay Website Functionality
     @tc-ebay-1
     Scenario: Access a Product via category after applying multiple filters
         Given I am on the eBay homepage
