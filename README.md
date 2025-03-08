@@ -1,4 +1,4 @@
-# Sauce Demo Automation
+# Ebay Demo Automation
 
 This project contains automated tests for the Sauce Demo website using Selenium with Python, implementing the Page Object Model (POM) pattern and Behavior-Driven Development (BDD) with Behave.
 
